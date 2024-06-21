@@ -1,0 +1,11 @@
+class devops
+{
+ public static voidmain();
+ if (i<10, i=10, i++)
+ {
+  print(" it works")
+
+ else
+ {
+   print (" not works")
+
