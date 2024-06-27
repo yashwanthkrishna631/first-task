@@ -1,0 +1,10 @@
+clone the repository using gitclone url
+
+modify the code in the source area 
+
+add the file to staging area using git add filename
+
+commit the file into local repository 
+
+push the code into remote repository
+
