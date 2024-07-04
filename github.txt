@@ -1,4 +1,4 @@
-class devops
+class devop 
 {
  public static voidmain();
  if (i<10, i=10, i++)
