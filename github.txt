@@ -1,7 +1,7 @@
 class devops
 {
  public static voidmain();
- if (i<10, i=10, i++)
+ if (i<20, i=20, i++)
  {
   print(" it works")
 
