@@ -1,0 +1,9 @@
+class powerbi
+{
+ public static voidmain stringargs()
+if powerbi knows sql 
+print("its elgible")
+
+else
+ print ("not elgible")
+
