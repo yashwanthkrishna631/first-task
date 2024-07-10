@@ -6,4 +6,8 @@ print("its elgible")
 
 else
  print ("not elgible")
+<<<<<<< HEAD
 
+=======
+}
+>>>>>>> git.3
