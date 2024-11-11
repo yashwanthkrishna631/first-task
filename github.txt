@@ -1,11 +1,11 @@
 class devops
 {
  public static voidmain();
-<<<<<<< HEAD
- if (i<20,i =20, i++)
-=======
- if (i<20, i=20, i++)
->>>>>>> git.3
+ HEAD
+ if (i<30,i =20, i++)
+======
+ if (i<30, i=20, i++)
+ git.3
  {
   print(" it works")
 
